@@ -1,0 +1,32 @@
+{
+    "laptops_products": [{
+            "id": 1,
+            "name": "ASUS TUF Gaming A15 ",
+            "desc": "FHD 144Hz, AMD Ryzen 7 4800H",
+            "price": 75000,
+            "color": "#33505a",
+            "info": "Dolor sea takimata ipsum sea eirmod aliquyam est. Eos ipsum voluptua eirmod elitr, no dolor dolor amet eirmod dolor labore dolores magna. Amet vero vero vero kasd, dolore sea sed sit invidunt nonumy est sit clita. Diam aliquyam amet tempor diam no aliquyam invidunt. Elitr lorem eirmod dolore clita. Rebum.",
+            "image": "assets/images/laptop/ASUS TUF Gaming A15 (1).png"
+        },
+        {
+            "id": 2,
+            "name": "HP Chromebook",
+            "desc": "Celeron N4020/4GB +256GB ",
+            "price": 27999,
+            "color": "#00ac51",
+            "info": "Dolor sea takimata ipsum sea eirmod aliquyam est. Eos ipsum voluptua eirmod elitr, no dolor dolor amet eirmod dolor labore dolores magna. Amet vero vero vero kasd, dolore sea sed sit invidunt nonumy est sit clita. Diam aliquyam amet tempor diam no aliquyam invidunt. Elitr lorem eirmod dolore clita. Rebum.",
+            "image": "assets/images/laptop/HP Chromebook 14inch (2).png"
+        },
+        {
+            "id": 3,
+            "name": "Lenovo IdeaPad Slim 3",
+            "desc": "11th Gen Intel Core i3 |14FHD IPS Thin",
+            "price": 46487,
+            "color": "#e0bfae",
+            "info": "Dolor sea takimata ipsum sea eirmod aliquyam est. Eos ipsum voluptua eirmod elitr, no dolor dolor amet eirmod dolor labore dolores magna. Amet vero vero vero kasd, dolore sea sed sit invidunt nonumy est sit clita. Diam aliquyam amet tempor diam no aliquyam invidunt. Elitr lorem eirmod dolore clita. Rebum.",
+            "image": "assets/images/laptop/Lenovo IdeaPad Slim 3 (4).png"
+        }
+
+
+    ]
+}

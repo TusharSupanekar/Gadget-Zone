@@ -1,0 +1,32 @@
+{
+    "tv_products": [{
+            "id": 1,
+            "name": "Daiwa D43QUHS TV ",
+            "desc": "A-55 Quad Core Processor 4K UHD",
+            "price": 40000,
+            "color": "#33505a",
+            "info": "Dolor sea takimata ipsum sea eirmod aliquyam est. Eos ipsum voluptua eirmod elitr, no dolor dolor amet eirmod dolor labore dolores magna. Amet vero vero vero kasd, dolore sea sed sit invidunt nonumy est sit clita. Diam aliquyam amet tempor diam no aliquyam invidunt. Elitr lorem eirmod dolore clita. Rebum.",
+            "image": "assets/images/Tv/Daiwa D43QUHS  (43) TV (1).png"
+        },
+        {
+            "id": 2,
+            "name": "Hisense 43inches 4k Tv",
+            "desc": "43A71F (Black) (2020 Model)",
+            "price": 20000,
+            "color": "#00ac51",
+            "info": "Dolor sea takimata ipsum sea eirmod aliquyam est. Eos ipsum voluptua eirmod elitr, no dolor dolor amet eirmod dolor labore dolores magna. Amet vero vero vero kasd, dolore sea sed sit invidunt nonumy est sit clita. Diam aliquyam amet tempor diam no aliquyam invidunt. Elitr lorem eirmod dolore clita. Rebum.",
+            "image": "assets/images/Tv/Hisense 43inches 4k Tv (1).png"
+        },
+        {
+            "id": 3,
+            "name": "OnePlusY Series TV",
+            "desc": "HD Ready 80 cm (32 inches)",
+            "price": 18999,
+            "color": "#e0bfae",
+            "info": "Dolor sea takimata ipsum sea eirmod aliquyam est. Eos ipsum voluptua eirmod elitr, no dolor dolor amet eirmod dolor labore dolores magna. Amet vero vero vero kasd, dolore sea sed sit invidunt nonumy est sit clita. Diam aliquyam amet tempor diam no aliquyam invidunt. Elitr lorem eirmod dolore clita. Rebum.",
+            "image": "assets/images/Tv/OnePlusY Series TV (1).png"
+        }
+
+
+    ]
+}

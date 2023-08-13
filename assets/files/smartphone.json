@@ -1,0 +1,32 @@
+{
+    "smartphone_products": [{
+            "id": 1,
+            "name": "iPhone 12 Pro",
+            "desc": "Apple iPhone 12th generation",
+            "price": 1299000,
+            "color": "#33505a",
+            "info": "Dolor sea takimata ipsum sea eirmod aliquyam est. Eos ipsum voluptua eirmod elitr, no dolor dolor amet eirmod dolor labore dolores magna. Amet vero vero vero kasd, dolore sea sed sit invidunt nonumy est sit clita. Diam aliquyam amet tempor diam no aliquyam invidunt. Elitr lorem eirmod dolore clita. Rebum.",
+            "image": "assets/images/Smartphones/iphone12pm (1).png"
+        },
+        {
+            "id": 2,
+            "name": "Iphone 11",
+            "desc": "Apple iPhone 11 64GB Red",
+            "price": 50000,
+            "color": "#00ac51",
+            "info": "Dolor sea takimata ipsum sea eirmod aliquyam est. Eos ipsum voluptua eirmod elitr, no dolor dolor amet eirmod dolor labore dolores magna. Amet vero vero vero kasd, dolore sea sed sit invidunt nonumy est sit clita. Diam aliquyam amet tempor diam no aliquyam invidunt. Elitr lorem eirmod dolore clita. Rebum.",
+            "image": "assets/images/Smartphones/iphone11red1.png"
+        },
+        {
+            "id": 3,
+            "name": "Realme Narzo 30 Pro",
+            "desc": "700 processor,Full HD+ display",
+            "price": 16939.00,
+            "color": "#e0bfae",
+            "info": "Dolor sea takimata ipsum sea eirmod aliquyam est. Eos ipsum voluptua eirmod elitr, no dolor dolor amet eirmod dolor labore dolores magna. Amet vero vero vero kasd, dolore sea sed sit invidunt nonumy est sit clita. Diam aliquyam amet tempor diam no aliquyam invidunt. Elitr lorem eirmod dolore clita. Rebum.",
+            "image": "assets/images/Smartphones/realme narzo 30 Pro (1).png"
+        }
+
+
+    ]
+}

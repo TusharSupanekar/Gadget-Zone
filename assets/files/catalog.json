@@ -1,0 +1,49 @@
+{
+    "products": [{
+            "id": 1,
+            "name": "iPhone 12 Pro",
+            "desc": "Apple iPhone 12th",
+            "price": 1299000,
+            "color": "#33505a",
+            "info": "A14 Bionic rockets past every other smartphone chip The Pro camera system takes low-light photography to the next level — with an even bigger jump on iPhone 12 Pro Max And Ceramic Shield delivers four times better drop performance.Lets see what this thing can do",
+            "image": "assets/images/Smartphones/iphone12pm (1).png"
+        },
+        {
+            "id": 2,
+            "name": "Logitech G102 Mouse",
+            "desc": "Customizable RGB Lighting",
+            "price": 1645,
+            "color": "#00ac51",
+            "info": "Designed for passionate gamers, the Logitech G102 Wired Optical gaming mouse features a gaming-grade sensor, LIGHTSYNC technology, six customisable buttons, and more to ensure an enhanced gaming experience. With a 200-8000 DPI sensor, this gaming mouse provides impressive responsiveness and accurate cursor tracking",
+            "image": "assets/images/Mouse/Logitech G102 Mouse (1).png"
+        },
+        {
+            "id": 3,
+            "name": "ASUS TUF A15",
+            "desc": "FHD 144Hz, AMD Ryzen 7 4800H",
+            "price": 75000,
+            "color": "#e0bfae",
+            "info": "Free upgrade to Windows 11 when available. Disclaimer-Upgrade rollout plan is being finalized and is scheduled to begin late in 2021 and continue into 2022. Specific timing will vary by device.Software Included: 1-month trial for new Microsoft 365 customers",
+            "image": "assets/images/laptop/ASUS TUF Gaming A15 (1).png"
+        },
+        {
+            "id": 4,
+            "name": "Daiwa D43QUHS TV",
+            "desc": "A-55 Quad Core Processor 4K UHD",
+            "price": 40000,
+            "color": "#544ee4",
+            "info": "There is no fun in watching your favourite movie or show on a TV where the display quality is poor. Now, don’t ruin the fun and watch them all in good and clear quality on this 108 cm (43) Amazon Basic smart TV. Its 4K display can accentuate your viewing experience and make it even better.",
+            "image": "assets/images/Tv/Daiwa D43QUHS  (43) TV (1).png"
+        },
+        {
+            "id": 5,
+            "name": "Iphone 11",
+            "desc": "Apple iPhone 11 64GB Red",
+            "price": 50000,
+            "color": "#e3e4e9",
+            "info": "S Dual 12MP Ultra Wide and Wide Cameras, Ultra Wide: f/2.4 Aperture and 120Degree Field of View, Wide: f/1.8 Aperture, Portrait Mode with Advanced Bokeh and Depth Control, Portrait Lighting with Six Effects.TrueDepth Camera - 12MP Camera, f/2.2 Aperture, Portrait Mode with Advanced Bokeh and Depth Control",
+            "image": "assets/images/Smartphones/iphone11red1.png"
+        }
+
+    ]
+}

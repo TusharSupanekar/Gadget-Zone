@@ -1,0 +1,32 @@
+{
+    "headphones_products": [{
+            "id": 1,
+            "name": "Asus ROG Strix 500",
+            "desc": "Gaming Headset with RGB Light",
+            "price": 19326,
+            "color": "#33505a",
+            "info": "Dolor sea takimata ipsum sea eirmod aliquyam est. Eos ipsum voluptua eirmod elitr, no dolor dolor amet eirmod dolor labore dolores magna. Amet vero vero vero kasd, dolore sea sed sit invidunt nonumy est sit clita. Diam aliquyam amet tempor diam no aliquyam invidunt. Elitr lorem eirmod dolore clita. Rebum.",
+            "image": "assets/images/Headphones/Asus ROG Strix Fusion 500 (4).png"
+        },
+        {
+            "id": 2,
+            "name": "EKSA Stereo Headset",
+            "desc": "PS4, PC, Xbox One Controller,",
+            "price": 2499,
+            "color": "#00ac51",
+            "info": "Dolor sea takimata ipsum sea eirmod aliquyam est. Eos ipsum voluptua eirmod elitr, no dolor dolor amet eirmod dolor labore dolores magna. Amet vero vero vero kasd, dolore sea sed sit invidunt nonumy est sit clita. Diam aliquyam amet tempor diam no aliquyam invidunt. Elitr lorem eirmod dolore clita. Rebum.",
+            "image": "assets/images/Headphones/EKSA Stereo Headset (1).png"
+        },
+        {
+            "id": 3,
+            "name": "Zebronics Zeb-Thunder",
+            "desc": "Wireless BT Headphone Comes with 40mm",
+            "price": 699,
+            "color": "#e0bfae",
+            "info": "Dolor sea takimata ipsum sea eirmod aliquyam est. Eos ipsum voluptua eirmod elitr, no dolor dolor amet eirmod dolor labore dolores magna. Amet vero vero vero kasd, dolore sea sed sit invidunt nonumy est sit clita. Diam aliquyam amet tempor diam no aliquyam invidunt. Elitr lorem eirmod dolore clita. Rebum.",
+            "image": "assets/images/Headphones/10thp1.png"
+        }
+
+
+    ]
+}
